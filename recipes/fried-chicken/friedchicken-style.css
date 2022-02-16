@@ -6,6 +6,14 @@ h2
     text-align: center;
 }
 
+.dish-name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.img-description {
+    font-style: italic;
+}
+
 img {
     height: auto;
     width: 300px;
@@ -14,4 +22,5 @@ img {
 h2 {
     background-color: brown;
     color: white;
+    font-family: "Lucida Handwriting", 'Times New Roman', Times, serif;
 }
