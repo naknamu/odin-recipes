@@ -1,0 +1,17 @@
+.dish-name,
+.picture,
+.img-description,
+h2
+ {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+h2 {
+    background-color: rgb(248, 158, 173);
+    color: white;
+}
